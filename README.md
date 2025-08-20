@@ -1,4 +1,2 @@
 # fortran
-old fortran codes
-Nuclear Matter RMF
-properties of Anto Sulaksono
+Calculation of Nuclear Matter using RMF. Property of Anto Sulaksono.
